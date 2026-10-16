@@ -1,0 +1,12 @@
+{
+  "latest": "20261016-01",
+  "messages": [
+    {
+      "id": "20261016-01",
+      "title": "推送服务上线",
+      "body": "HKS Push 已通过 GitHub 中转启动。",
+      "urgent": false,
+      "time": "2026-10-16T12:00:00Z"
+    }
+  ]
+}
